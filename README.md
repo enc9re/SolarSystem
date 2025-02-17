@@ -37,4 +37,7 @@ pip install -r requirements.py
 python SolarSystem.py
 ```
 3. Use controls to explore the solar system
-   
+
+## Bugs
+1.Window may freeze , just restart
+2.Control is reversed except ↑ and ↓
