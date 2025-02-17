@@ -41,3 +41,4 @@ python SolarSystem.py
 ## Bugs
 1. Window may freeze , just restart
 2. Control is reversed except ↑ and ↓
+3. Planets become small in approaching
