@@ -29,6 +29,8 @@ pip install -r requirements.py
 | 1-9 | Select planet for information |
 | W/A/S/D | Move camera in free mode |
 | Arrow Keys | Rotate camera in orbit mode |
+| X | Disable camera tracking |
+| Wheel | Same as w or s to zoom |
 
 ## Usage
 1. Install required libraries
@@ -38,7 +40,11 @@ python SolarSystem.py
 ```
 3. Use controls to explore the solar system
 
-## Bugs
-1. Window may freeze , just restart
-2. Control is reversed except ↑ and ↓
-3. Planets become small in approaching
+## Changelog
+In version v2.0
+1. Added planet tracking system
+2. Implemented fullscreen mode with minimal UI
+3. Improved planet information display
+4. Enhanced camera controls
+5. Added star background
+6. Prediction , etc..
