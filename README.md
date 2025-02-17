@@ -1,6 +1,6 @@
 # Solar System Simulation
 
-![Solar System Screenshot](screenshot.png)
+![Solar System Screenshot](screenshot2.png)
 
 A 3D simulation of the solar system using DearPyGui.
 
