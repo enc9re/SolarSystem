@@ -39,5 +39,5 @@ python SolarSystem.py
 3. Use controls to explore the solar system
 
 ## Bugs
-1.Window may freeze , just restart
-2.Control is reversed except ↑ and ↓
+1. Window may freeze , just restart
+2. Control is reversed except ↑ and ↓
