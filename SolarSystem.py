@@ -47,7 +47,7 @@ planet_info = {
         "surface_temp": "5,500°C",
         "rotation_period": "27 Earth days",
         "age": "4.6 billion years",
-        "composition": "Hydrogen (73%), Helium (25%)",
+        "composition": "Hydrogen (72%), Helium (25%) , Other (1%)",
     },
     "Mercury": {
         "description": "Mercury is the smallest and closest planet to the Sun",
